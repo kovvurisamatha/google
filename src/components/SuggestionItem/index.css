@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.googlecontainer{
+    display:flex;
+    flex-direction:column;
+    align-items:space-between;
+}
